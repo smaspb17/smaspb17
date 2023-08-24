@@ -9,7 +9,7 @@ I am currently a beginner Python developer from Russia. Programming and the Pyth
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/smaspb17?tab=repositories)
 - 📫 How to reach me:
   - Email: smaspb17@yandex.ru
-  - Telegram: [@shaibakov_m](https://t.me/shaibakov_m)
+  - Telegram: [@marat_shaibakov](https://t.me/marat_shaibakov)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

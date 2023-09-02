@@ -1,7 +1,7 @@
 # Hi there! My name is Marat!👋 
 ![](https://komarev.com/ghpvc/?username=smaspb17)
 
-I am a Python developer from Russia. Programming and the Python language fascinate me, it's amazing that they can simulate any life situations. I like to create new projects and constantly explore new features of this amazing language!😊
+I am a Python developer. Programming and the Python language fascinate me, it's amazing that they can simulate any life situations. I like to create new projects and constantly explore new features of this amazing language!😊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smaspb17&theme=discord_old_blurple)
 ---

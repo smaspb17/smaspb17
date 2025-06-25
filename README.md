@@ -4,7 +4,7 @@
 I am a Python developer. Programming and the Python language fascinate me, it's amazing that they can simulate any life situations. I like to create new projects and constantly explore new features of this amazing language!😊
 
 ---
-- 🌱 I’m currently learning Python, Django, REST API, PostgreSQL, Docker, algorithms
+- 🌱 I’m currently learning Python, Django, FastAPI, Nats, aiohttp, Postgres, Redis, RabbitMQ, Celery, BeautifulSoup, Selenium, pytest, Docker, Docker Compose, ELK, Grafana, Sentry, K8s
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/smaspb17?tab=repositories)
 - 📫 How to reach me:
   - Email: jsmaspb17@gmail.com

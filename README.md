@@ -7,8 +7,8 @@ I am a Python developer. Programming and the Python language fascinate me, it's 
 - 🌱 I’m currently learning Python, Django, REST API, PostgreSQL, Docker, algorithms
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/smaspb17?tab=repositories)
 - 📫 How to reach me:
-  - Email: smaspb17@yandex.ru
-  - Telegram: [@marat_shaibakov](https://t.me/jsmaspb17)
+  - Email: jsmaspb17@gmail.com
+  - Telegram: https://t.me/jsmaspb17
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

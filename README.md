@@ -3,7 +3,6 @@
 
 I am a Python developer. Programming and the Python language fascinate me, it's amazing that they can simulate any life situations. I like to create new projects and constantly explore new features of this amazing language!😊
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smaspb17&theme=discord_old_blurple)
 ---
 - 🌱 I’m currently learning Python, Django, REST API, PostgreSQL, Docker, algorithms
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/smaspb17?tab=repositories)

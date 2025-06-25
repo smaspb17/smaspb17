@@ -8,7 +8,7 @@ I am a Python developer. Programming and the Python language fascinate me, it's 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/smaspb17?tab=repositories)
 - 📫 How to reach me:
   - Email: smaspb17@yandex.ru
-  - Telegram: [@marat_shaibakov](https://t.me/marat_shaibakov)
+  - Telegram: [@marat_shaibakov](https://t.me/jsmaspb17)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
